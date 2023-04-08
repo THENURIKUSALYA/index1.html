@@ -1,6 +1,6 @@
 # index1.html
 <html>
-     <body>
+     <body>main
      <main>
 <section>
         <h2>Cat Photos</h2>
